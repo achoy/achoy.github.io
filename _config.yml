@@ -15,19 +15,19 @@ owner:
   bio:            "Software Architect, Storyteller (Film-maker, Writer), Dreamer"
   email:          albert@choy.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/askchoy
+  twitter:        askchoy
   facebook:
   github:
   stackexchange:
   linkedin:
-  instagram:      https://www.instagram.com/albertsekchoy/
+  instagram:      albertsekchoy
   flickr:
-  tumblr:         https://blog.choy.net
+  tumblr:         thinkdodream
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 # Background image to be tiled on all pages
-background:
+background:       Griffith.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
