@@ -1,7 +1,19 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Think Do Dream
+  url: http://blog.choy.net
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Creative Technobabble
+  url: http://creativetech.choy.net
+
+- title: Social Amusement
+  url: http://goodfoodmpls.choy.net
+
+- title: Missing Stone
+  url: http://missingstone.tumblr.com
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+#- title: External Link
+#  url: http://mademistakes.com
