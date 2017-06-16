@@ -9,7 +9,7 @@ image:
   credit: "http://bit.ly/2rydYQu"
 ---
 
-n a quiet summer morning,
+On a quiet summer morning,
 When the birds whisper their stories,
 The wind waves the branches and leaves around,
 The sun filters her light through the window shutters
@@ -29,3 +29,5 @@ And I counsel them to play nice, take turns, and show.
 
 On this quiet, windy morning,
 I write. I sing. I dream.
+
+- Albert Choy, June 16, 2017
