@@ -1,9 +1,12 @@
 ---
-published: false
+layout: post
+title: "Taking Leave of Cambridge Again"
+description: "Taking Leave of Cambridge Again"
+author: "Xu Zhimo"
+tags: [post]
+comments: true
 ---
-## Cambridge poem
 
-Taking Leave of Cambridge Again  
 
 By Xu Zhimo  
 
