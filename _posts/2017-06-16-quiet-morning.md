@@ -30,4 +30,4 @@ image:
    On this quiet, windy morning,  
    I write. I sing. I dream.  
 
-      - Albert Choy, June 16, 2017
+   - Albert Choy, June 16, 2017
