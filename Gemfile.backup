@@ -1,5 +1,0 @@
-source "https://rubygems.org"
-
-gem 'octopress'
-gem 'jekyll-paginate'
-gem 'neo-hpstr-jekyll-theme', :git => 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme.git'
