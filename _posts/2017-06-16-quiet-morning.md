@@ -3,7 +3,8 @@ layout: post
 title: "On A Quiet Summer Morning"
 description: "On A Quiet Summer Morning - Poem"
 tags: [poem]
-comments: true
+comments: false
+share: false
 image:
   feature: Sculpture-Garden_Grand-Opening_Ribbon-Cutting_14.jpg
   credit: "http://bit.ly/2rydYQu"

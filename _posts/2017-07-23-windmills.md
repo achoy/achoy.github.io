@@ -4,6 +4,7 @@ title: "Windmills On Your Mind"
 description: "Windmills On Your Mind - Lyrics"
 tags: [lyrics]
 comments: false
+share: false
 image:
   feature: windmills.jpg
   credit: "http://bit.ly/2rydYQu"
