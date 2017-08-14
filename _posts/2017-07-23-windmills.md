@@ -3,7 +3,7 @@ layout: post
 title: "Windmills On Your Mind"
 description: "Windmills On Your Mind - Lyrics"
 tags: [lyrics]
-comments: true
+comments: false
 image:
   feature: windmills.jpg
   credit: "http://bit.ly/2rydYQu"
