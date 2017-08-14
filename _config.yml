@@ -28,10 +28,10 @@ menu:
     url: 'http://socialamusement.choy.net'
   - title: 'Arts'
     url: 'http://missingstone.tumblr.com'
+  - title: 'Food'
+    url: 'http://goodfoodmpls.choy.net'
   - title: 'Favorites'
     submenu:
-      - title: 'Good Food Minneapolis '
-        url: 'http://goodfoodmpls.choy.net'
       - title: 'Tags'
         url: '/tags'
       - title: 'Categories'
