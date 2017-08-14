@@ -4,7 +4,7 @@
       "title"    : "Welcome To Albert&#39;s World",
       "category" : "",
       "tags"     : "introduction, intro",
-      "url"      : "http://localhost:4000/TOP/",
+      "url"      : "https://www.choycreative.com/TOP/",
       "date"     : "2017-08-12 00:00:00 -0500"
     } ,
   
@@ -12,7 +12,7 @@
       "title"    : "Taking Leave of Cambridge Again",
       "category" : "",
       "tags"     : "post",
-      "url"      : "http://localhost:4000/Cambridge_Poem/",
+      "url"      : "https://www.choycreative.com/Cambridge_Poem/",
       "date"     : "2017-07-26 00:00:00 -0500"
     } ,
   
@@ -20,7 +20,7 @@
       "title"    : "Windmills On Your Mind",
       "category" : "",
       "tags"     : "lyrics",
-      "url"      : "http://localhost:4000/windmills/",
+      "url"      : "https://www.choycreative.com/windmills/",
       "date"     : "2017-07-23 00:00:00 -0500"
     } ,
   
@@ -28,7 +28,7 @@
       "title"    : "On A Quiet Summer Morning",
       "category" : "",
       "tags"     : "poem",
-      "url"      : "http://localhost:4000/quiet-morning/",
+      "url"      : "https://www.choycreative.com/quiet-morning/",
       "date"     : "2017-06-16 00:00:00 -0500"
     } 
   

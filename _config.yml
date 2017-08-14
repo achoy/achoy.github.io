@@ -28,14 +28,14 @@ menu:
     url: 'http://socialamusement.choy.net'
   - title: 'Arts'
     url: 'http://missingstone.tumblr.com'
-  - title: 'Food'
-    url: 'http://goodfoodmpls.choy.net'
-  - title: 'Favorites'
-    submenu:
-      - title: 'Tags'
-        url: '/tags'
-      - title: 'Categories'
-        url: '/categories'
+#  - title: 'Food'
+#    url: 'http://goodfoodmpls.choy.net'
+#  - title: 'Favorites'
+#    submenu:
+#      - title: 'Tags'
+#        url: '/tags'
+#      - title: 'Categories'
+#        url: '/categories'
 #        type: 'categories'
 
 # Owner/author information

@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Albert's World</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-08-14T01:03:56-05:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="https://www.choycreative.com/feed.xml" />
+<link rel="alternate" type="text/html" href="https://www.choycreative.com" />
+<updated>2017-08-14T01:08:32-05:00</updated>
+<id>https://www.choycreative.com/</id>
 <author>
   <name>Albert Choy</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>https://www.choycreative.com/</uri>
   <email>albert@choycreative.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Welcome To Albert's World]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/TOP/" />
-  <id>http://localhost:4000/TOP</id>
+ <link rel="alternate" type="text/html" href="https://www.choycreative.com/TOP/" />
+  <id>https://www.choycreative.com/TOP</id>
   <published>2017-08-12T00:00:00-05:00</published>
   <updated>2017-08-12T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>https://www.choycreative.com</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -48,20 +48,20 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/askchoy&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/TOP/&quot;&gt;Welcome To Albert's World&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on August 12, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/TOP/&quot;&gt;Welcome To Albert's World&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on August 12, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Taking Leave of Cambridge Again]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/Cambridge_Poem/" />
-  <id>http://localhost:4000/Cambridge_Poem</id>
+ <link rel="alternate" type="text/html" href="https://www.choycreative.com/Cambridge_Poem/" />
+  <id>https://www.choycreative.com/Cambridge_Poem</id>
   <published>2017-07-26T00:00:00-05:00</published>
   <updated>2017-07-26T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>https://www.choycreative.com</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -104,20 +104,20 @@
 
 &lt;p&gt;(6 November 1928)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Cambridge_Poem/&quot;&gt;Taking Leave of Cambridge Again&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on July 26, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/Cambridge_Poem/&quot;&gt;Taking Leave of Cambridge Again&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on July 26, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Windmills On Your Mind]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/windmills/" />
-  <id>http://localhost:4000/windmills</id>
+ <link rel="alternate" type="text/html" href="https://www.choycreative.com/windmills/" />
+  <id>https://www.choycreative.com/windmills</id>
   <published>2017-07-23T00:00:00-05:00</published>
   <updated>2017-07-23T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>https://www.choycreative.com</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -177,20 +177,20 @@ In the windmills of your mind
 
 &lt;p&gt;Songwriters: Alan Bergman / Marylin Bergman / Michel Legrand&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/windmills/&quot;&gt;Windmills On Your Mind&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on July 23, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/windmills/&quot;&gt;Windmills On Your Mind&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on July 23, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[On A Quiet Summer Morning]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/quiet-morning/" />
-  <id>http://localhost:4000/quiet-morning</id>
+ <link rel="alternate" type="text/html" href="https://www.choycreative.com/quiet-morning/" />
+  <id>https://www.choycreative.com/quiet-morning</id>
   <published>2017-06-16T00:00:00-05:00</published>
   <updated>2017-06-16T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>https://www.choycreative.com</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -219,7 +219,7 @@ In the windmills of your mind
   &lt;li&gt;Albert Choy, June 16, 2017&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/quiet-morning/&quot;&gt;On A Quiet Summer Morning&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on June 16, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/quiet-morning/&quot;&gt;On A Quiet Summer Morning&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on June 16, 2017.&lt;/p&gt;
   </content>
 </entry>
 
