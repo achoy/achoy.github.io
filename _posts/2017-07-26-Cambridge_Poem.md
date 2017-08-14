@@ -5,7 +5,7 @@ description: "Taking Leave of Cambridge Again"
 author: "Xu Zhimo"
 tags: [post]
 share: false
-comments: true
+comments: false
 image:
    feature: Punting_on_the_River_Cam.jpg
 ---
