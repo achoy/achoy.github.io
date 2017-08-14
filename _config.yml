@@ -29,15 +29,14 @@ menu:
   - title: 'Arts'
     url: 'http://missingstone.tumblr.com'
   - title: 'Favorites'
-    url: '#'
     submenu:
-      - title: 'Good Food Minneapolis'
+      - title: 'Good Food Minneapolis '
         url: 'http://goodfoodmpls.choy.net'
       - title: 'Tags'
         url: '/tags'
       - title: 'Categories'
         url: '/categories'
-        type: 'categories'
+#        type: 'categories'
 
 # Owner/author information
 owner:
