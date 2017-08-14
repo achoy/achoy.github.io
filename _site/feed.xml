@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://www.choycreative.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.choycreative.com/" rel="alternate" type="text/html" /><updated>2017-08-13T09:11:53-05:00</updated><id>https://www.choycreative.com/</id><title>Albert&#39;s World</title><subtitle>Creative coder, wordsmith, thinker. These are my words and images.</subtitle><entry><title>Welcome To Albert’s World</title><link href="https://www.choycreative.com/TOP/" rel="alternate" type="text/html" title="Welcome To Albert&#39;s World" /><published>2017-08-12T00:00:00-05:00</published><updated>2017-08-12T00:00:00-05:00</updated><id>https://www.choycreative.com/TOP</id><content type="html" xml:base="https://www.choycreative.com/TOP/">&lt;p&gt;This is Albert’s World. Welcome you to a tour of interesting places.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Albert's World</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-08-13T23:47:55-05:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Albert Choy</name>
+  <uri>http://localhost:4000/</uri>
+  <email>albert@choycreative.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Welcome To Albert's World]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/TOP/" />
+  <id>http://localhost:4000/TOP</id>
+  <published>2017-08-12T00:00:00-05:00</published>
+  <updated>2017-08-12T00:00:00-05:00</updated>
+  <author>
+    <name>Albert Choy</name>
+    <uri>http://localhost:4000</uri>
+    <email>albert@choycreative.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This is Albert’s World. Welcome you to a tour of interesting places.&lt;/p&gt;
 
 &lt;h2 id=&quot;blogs&quot;&gt;Blogs&lt;/h2&gt;
 &lt;p&gt;You can visit one of my many blogs:&lt;/p&gt;
@@ -19,7 +46,26 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/askchoy&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/askchoy&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="introduction" /><category term="intro" /><summary>This is Albert’s World. Welcome you to a tour of interesting places.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.choycreative.com{&quot;feature&quot;=&gt;&quot;wreck_it_ralph2.jpg&quot;, &quot;credit&quot;=&gt;&quot;askchoy&quot;}" /></entry><entry><title>Taking Leave of Cambridge Again</title><link href="https://www.choycreative.com/Cambridge_Poem/" rel="alternate" type="text/html" title="Taking Leave of Cambridge Again" /><published>2017-07-26T00:00:00-05:00</published><updated>2017-07-26T00:00:00-05:00</updated><id>https://www.choycreative.com/Cambridge_Poem</id><content type="html" xml:base="https://www.choycreative.com/Cambridge_Poem/">&lt;p&gt;By Xu Zhimo&lt;/p&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/TOP/&quot;&gt;Welcome To Albert's World&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on August 12, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Taking Leave of Cambridge Again]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/Cambridge_Poem/" />
+  <id>http://localhost:4000/Cambridge_Poem</id>
+  <published>2017-07-26T00:00:00-05:00</published>
+  <updated>2017-07-26T00:00:00-05:00</updated>
+  <author>
+    <name>Albert Choy</name>
+    <uri>http://localhost:4000</uri>
+    <email>albert@choycreative.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;By Xu Zhimo&lt;/p&gt;
 
 &lt;p&gt;Softly I am leaving,&lt;br /&gt;
    Just as softly as I came;&lt;br /&gt;
@@ -56,13 +102,32 @@
    Gently waving my sleeve,&lt;br /&gt;
    I am not taking away a single cloud.&lt;/p&gt;
 
-&lt;p&gt;(6 November 1928)&lt;/p&gt;</content><author><name>Xu Zhimo</name></author><category term="post" /><summary>By Xu Zhimo</summary></entry><entry><title>Windmills On Your Mind</title><link href="https://www.choycreative.com/windmills/" rel="alternate" type="text/html" title="Windmills On Your Mind" /><published>2017-07-23T00:00:00-05:00</published><updated>2017-07-23T00:00:00-05:00</updated><id>https://www.choycreative.com/windmills</id><content type="html" xml:base="https://www.choycreative.com/windmills/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Round like a circle in a spiral,
+&lt;p&gt;(6 November 1928)&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Cambridge_Poem/&quot;&gt;Taking Leave of Cambridge Again&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on July 26, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Windmills On Your Mind]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/windmills/" />
+  <id>http://localhost:4000/windmills</id>
+  <published>2017-07-23T00:00:00-05:00</published>
+  <updated>2017-07-23T00:00:00-05:00</updated>
+  <author>
+    <name>Albert Choy</name>
+    <uri>http://localhost:4000</uri>
+    <email>albert@choycreative.com</email>
+  </author>
+  <content type="html">
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Round like a circle in a spiral,
 like a wheel within a wheel
 Never ending or beginning on an
 ever spinning reel
 Like a snowball down a mountain,
 or a carnival balloon
-Like a carousel that&#39;s turning
+Like a carousel that's turning
 running rings around the moon
 Like a clock whose hands are sweeping past the minutes of its face
 And the world is like an apple whirling silently in space
@@ -110,17 +175,26 @@ In the windmills of your mind
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Songwriters: Alan Bergman / Marylin Bergman / Michel Legrand&lt;/p&gt;</content><category term="lyrics" /><summary>Round like a circle in a spiral,
-like a wheel within a wheel
-Never ending or beginning on an
-ever spinning reel
-Like a snowball down a mountain,
-or a carnival balloon
-Like a carousel that&#39;s turning
-running rings around the moon
-Like a clock whose hands are sweeping past the minutes of its face
-And the world is like an apple whirling silently in space
-Like the circles that you find in the windmills of your mind</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.choycreative.com{&quot;feature&quot;=&gt;&quot;windmills.jpg&quot;, &quot;credit&quot;=&gt;&quot;http://bit.ly/2rydYQu&quot;}" /></entry><entry><title>On A Quiet Summer Morning</title><link href="https://www.choycreative.com/quiet-morning/" rel="alternate" type="text/html" title="On A Quiet Summer Morning" /><published>2017-06-16T00:00:00-05:00</published><updated>2017-06-16T00:00:00-05:00</updated><id>https://www.choycreative.com/quiet-morning</id><content type="html" xml:base="https://www.choycreative.com/quiet-morning/">&lt;p&gt;On a quiet summer morning,&lt;br /&gt;
+&lt;p&gt;Songwriters: Alan Bergman / Marylin Bergman / Michel Legrand&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/windmills/&quot;&gt;Windmills On Your Mind&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on July 23, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[On A Quiet Summer Morning]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/quiet-morning/" />
+  <id>http://localhost:4000/quiet-morning</id>
+  <published>2017-06-16T00:00:00-05:00</published>
+  <updated>2017-06-16T00:00:00-05:00</updated>
+  <author>
+    <name>Albert Choy</name>
+    <uri>http://localhost:4000</uri>
+    <email>albert@choycreative.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;On a quiet summer morning,&lt;br /&gt;
    when the birds whisper their stories,&lt;br /&gt;
    The wind waves the branches and leaves around,&lt;br /&gt;
    The sun filters her light through the window shutters&lt;br /&gt;
@@ -143,8 +217,10 @@ Like the circles that you find in the windmills of your mind</summary><media:thu
 
 &lt;ul&gt;
   &lt;li&gt;Albert Choy, June 16, 2017&lt;/li&gt;
-&lt;/ul&gt;</content><category term="poem" /><summary>On a quiet summer morning,
-   when the birds whisper their stories,
-   The wind waves the branches and leaves around,
-   The sun filters her light through the window shutters
-   I wonder where I’ve been,</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.choycreative.com{&quot;feature&quot;=&gt;&quot;Sculpture-Garden_Grand-Opening_Ribbon-Cutting_14.jpg&quot;, &quot;credit&quot;=&gt;&quot;http://bit.ly/2rydYQu&quot;}" /></entry></feed>
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/quiet-morning/&quot;&gt;On A Quiet Summer Morning&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on June 16, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

@@ -1,19 +1,51 @@
 title:            Albert's World
 description:      Creative coder, wordsmith, thinker. These are my words and images.
+
 disqus_shortname: albert_choy
 #reading_time:     true
 words_per_minute: 200
+logo:             images/Griffith.png
+excerpt_separator: <!--more-->
+
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:             https://www.choycreative.com
-#url:              http://localhost:4000
+#url:             https://www.choycreative.com
+url:              http://localhost:4000
+
+# draw your top menu here
+# each item must have a title and a url.
+#   To list post categories. use type: 'categories'
+#   To create sub categories. add a submenu item
+# See the example
+menu:
+  - title: 'Home'
+    url: '/'
+  - title: 'Think'
+    url: 'http://blog.choy.net'
+  - title: 'Creative'
+    url: 'http://creativetech.choy.net'
+  - title: 'Society'
+    url: 'http://socialamusement.choy.net'
+  - title: 'Arts'
+    url: 'http://missingstone.tumblr.com'
+#  - title: 'Categories'
+#    url: '/categories'
+#    type: 'categories'
+  - title: 'Favorites'
+    url: '#'
+    submenu:
+      - title: 'Code Highlighter'
+        url: '/intro/code-highlighting-post/'
+      - title: 'Tags'
+        url: '/tags'
 
 # Owner/author information
 owner:
   name:           Albert Choy
-  avatar:         avatar.jpg
+  site:           https://choycreative.com
+  avatar:         images/avatar.jpg
   bio:            "Software Architect, Storyteller (Film-maker, Writer), Dreamer"
-  email:          albert@choy.net
+  email:          albert@choycreative.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        askchoy
   facebook:
@@ -26,6 +58,19 @@ owner:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
+# Twitter account associated with the site if different from owner/author twitter account.
+# Used in Twitter cards.
+twitter:
+
+# Social networking links used in author block underneath posts. Update and remove as you like.
+social:
+  - title: "github"
+    url: "https://github.com/achoy"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/albertchoy"
+  - title: "vimeo"
+    url: "https://vimeo.com/albertchoy"
+
 # Background image to be tiled on all pages
 background:
 
@@ -37,14 +82,15 @@ bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
+locale:      en_US
 future:      true  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-feed
+#gems:
+#  - jekyll-sitemap
+#  - jekyll-paginate
+#  - jekyll-gist
+#  - jekyll-feed
 sass:
   sass_dir: _sass
   style: compressed
@@ -55,6 +101,9 @@ permalink:   /:categories/:title/
 # Amount of post to show on home page
 paginate: 15
 
+# if true, shows the floatting share buttons
+float_share: true
+
 kramdown:
   input: GFM
   auto_ids: true
@@ -63,28 +112,16 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include:
-  - .htaccess
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
+
+include: [".htaccess"]
+exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+plugins: [jekyll-paginate]
