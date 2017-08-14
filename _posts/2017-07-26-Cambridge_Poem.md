@@ -7,7 +7,7 @@ tags: [post]
 share: false
 comments: true
 image:
-   feature: images/Punting_on_the_River_Cam.jpg
+   feature: Punting_on_the_River_Cam.jpg
 ---
 
 
@@ -48,4 +48,4 @@ By Xu Zhimo
    Gently waving my sleeve,  
    I am not taking away a single cloud.  
 
-   (6 November 1928) 
+   (6 November 1928)
