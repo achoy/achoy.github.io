@@ -2,26 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Albert's World</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://www.choycreative.com/feed.xml" />
-<link rel="alternate" type="text/html" href="https://www.choycreative.com" />
-<updated>2017-08-14T01:08:32-05:00</updated>
-<id>https://www.choycreative.com/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-08-14T20:09:24-05:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Albert Choy</name>
-  <uri>https://www.choycreative.com/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>albert@choycreative.com</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Snowman]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/snowman/" />
+  <id>http://localhost:4000/snowman</id>
+  <updated>2017-08-14 19:43:34 -0500T00:00:00-00:00</updated>
+  <published>2017-08-14T19:43:34-05:00</published>
+  
+  <author>
+    <name>Albert Choy</name>
+    <uri>http://localhost:4000</uri>
+    <email>albert@choycreative.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;I always wanted to build a snowman. 
+   From my birthplace in the sweltering tropics,
+   to my middle childhood in the temperate bay of Tampa,
+   I fantasize about the shaping of a white billowy guardian in my front yard. 
+   Snow could not be found however, except as light watery dust in the freezer
+   or as snowflake creatures hiding in the telly.&lt;/p&gt;
+
+&lt;p&gt;To my great surprise, I find myself building a home in the wintery, frozen tundra of Minnesota. 
+   Here it gets so cold that for months, you can drive your car across the tranquil,
+   flowy yet solid surfaces of some lakes. And yet, I have still not built my snowman.&lt;/p&gt;
+
+&lt;p&gt;He beckons in my mind, with his stiff pointy nose, and a beady smile made from little round stones,
+   and his outstretched branch of a hand, to make him real. 
+   Next winter, I tell him, I will form balls of snow into an amazing girth,
+   my kids piling large clumps of frozen water into the shape of a perfect snowman,
+   and I’ll call him… Sam.&lt;/p&gt;
+
+&lt;p&gt;Time ticks away.  I dream of imaginary children walking with me down the hill to the quiet valley
+   where my snowman waits… for the perfect moment… to be real.&lt;/p&gt;
+
+&lt;p&gt;Albert Choy, June 9, 2005,
+   revised Sep 13, 2008,
+   and August 12, 2017&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/snowman/&quot;&gt;Snowman&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on August 14, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Welcome To Albert's World]]></title>
- <link rel="alternate" type="text/html" href="https://www.choycreative.com/TOP/" />
-  <id>https://www.choycreative.com/TOP</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/TOP/" />
+  <id>http://localhost:4000/TOP</id>
   <published>2017-08-12T00:00:00-05:00</published>
   <updated>2017-08-12T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>https://www.choycreative.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -48,20 +90,20 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/askchoy&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/TOP/&quot;&gt;Welcome To Albert's World&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on August 12, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/TOP/&quot;&gt;Welcome To Albert's World&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on August 12, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Taking Leave of Cambridge Again]]></title>
- <link rel="alternate" type="text/html" href="https://www.choycreative.com/Cambridge_Poem/" />
-  <id>https://www.choycreative.com/Cambridge_Poem</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/Cambridge_Poem/" />
+  <id>http://localhost:4000/Cambridge_Poem</id>
   <published>2017-07-26T00:00:00-05:00</published>
   <updated>2017-07-26T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>https://www.choycreative.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -104,20 +146,20 @@
 
 &lt;p&gt;(6 November 1928)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/Cambridge_Poem/&quot;&gt;Taking Leave of Cambridge Again&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on July 26, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Cambridge_Poem/&quot;&gt;Taking Leave of Cambridge Again&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on July 26, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Windmills On Your Mind]]></title>
- <link rel="alternate" type="text/html" href="https://www.choycreative.com/windmills/" />
-  <id>https://www.choycreative.com/windmills</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/windmills/" />
+  <id>http://localhost:4000/windmills</id>
   <published>2017-07-23T00:00:00-05:00</published>
   <updated>2017-07-23T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>https://www.choycreative.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -177,20 +219,20 @@ In the windmills of your mind
 
 &lt;p&gt;Songwriters: Alan Bergman / Marylin Bergman / Michel Legrand&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/windmills/&quot;&gt;Windmills On Your Mind&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on July 23, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/windmills/&quot;&gt;Windmills On Your Mind&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on July 23, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[On A Quiet Summer Morning]]></title>
- <link rel="alternate" type="text/html" href="https://www.choycreative.com/quiet-morning/" />
-  <id>https://www.choycreative.com/quiet-morning</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/quiet-morning/" />
+  <id>http://localhost:4000/quiet-morning</id>
   <published>2017-06-16T00:00:00-05:00</published>
   <updated>2017-06-16T00:00:00-05:00</updated>
   <author>
     <name>Albert Choy</name>
-    <uri>https://www.choycreative.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>albert@choycreative.com</email>
   </author>
   <content type="html">
@@ -219,7 +261,7 @@ In the windmills of your mind
   &lt;li&gt;Albert Choy, June 16, 2017&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.choycreative.com/quiet-morning/&quot;&gt;On A Quiet Summer Morning&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;https://www.choycreative.com&quot;&gt;Albert's World&lt;/a&gt; on June 16, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/quiet-morning/&quot;&gt;On A Quiet Summer Morning&lt;/a&gt; was originally published by Albert Choy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Albert's World&lt;/a&gt; on June 16, 2017.&lt;/p&gt;
   </content>
 </entry>
 
