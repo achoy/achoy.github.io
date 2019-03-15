@@ -184,17 +184,16 @@
   <p>However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.</p>
 </blockquote>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll build
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll build
 
 bundle <span class="nb">exec </span>jekyll serve
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <hr />
 
 <h2 id="folder-structure">Folder Structure</h2>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>hpstr-jekyll-theme/
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hpstr-jekyll-theme/
 ├── _includes
 |    ├── browser-upgrade.html       <span class="c"># prompt to upgrade browser on &lt; IE8</span>
 |    ├── footer.html                <span class="c"># site footer</span>
@@ -220,30 +219,27 @@ bundle <span class="nb">exec </span>jekyll serve
 ├── posts/                          <span class="c"># all posts</span>
 ├── tags/                           <span class="c"># all posts grouped by tag</span>
 └── index.html                      <span class="c"># home page with pagination</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <hr />
 
 <h2 id="customization">Customization</h2>
 
-<p>Most of the variables found here are used in the .html files found in <code class="highlighter-rouge">_includes</code> if you need to add or remove anything. A good place to start would be to add the <code class="highlighter-rouge">title</code>, <code class="highlighter-rouge">description</code>, and <code class="highlighter-rouge">url</code> for your site. Links are absolute and prefixed with <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> in the various <code class="highlighter-rouge">_includes</code> and <code class="highlighter-rouge">_layouts</code>, so remember to properly set <code class="highlighter-rouge">url</code><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> to <code class="highlighter-rouge">http://localhost:4000</code> when developing locally.</p>
+<p>Most of the variables found here are used in the .html files found in <code class="highlighter-rouge">_includes</code> if you need to add or remove anything. A good place to start would be to add the <code class="highlighter-rouge">title</code>, <code class="highlighter-rouge">description</code>, and <code class="highlighter-rouge">url</code> for your site. Links are absolute and prefixed with <code class="highlighter-rouge">{{ site.url }}</code> in the various <code class="highlighter-rouge">_includes</code> and <code class="highlighter-rouge">_layouts</code>, so remember to properly set <code class="highlighter-rouge">url</code><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> to <code class="highlighter-rouge">http://localhost:4000</code> when developing locally.</p>
 
 <h3 id="disqus-comments">Disqus Comments</h3>
 
 <p>Create a <a href="http://disqus.com">Disqus</a> account and change <code class="highlighter-rouge">disqus_shortname</code> in <code class="highlighter-rouge">_config.yml</code> to the Disqus <em>shortname</em> you just setup. By default comments appear on all post and pages if you assigned a shortname. To disable commenting on a post or page, add the following to its YAML Front Matter:</p>
 
-<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="s">comments</span><span class="pi">:</span> <span class="s">false</span>
-</code></pre>
-</div>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">comments</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
 
 <h3 id="social-share-links">Social Share Links</h3>
 
 <p>To disable Facebook, Twitter, and Google+ share links on a post or page, add the following to its front matter:</p>
 
-<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="s">share</span><span class="pi">:</span> <span class="s">false</span>
-</code></pre>
-</div>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">share</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
 
 <h3 id="ownerauthor-information">Owner/Author Information</h3>
 
@@ -257,13 +253,12 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <p>To add additional links in the drop down menu edit <code class="highlighter-rouge">_data/navigation.yml</code>. Use the following format to set the URL and title for as many links as you’d like. <em>External links will open in a new window.</em></p>
 
-<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">Portfolio</span>
-  <span class="s">url</span><span class="pi">:</span> <span class="s">/portfolio/</span>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s">Portfolio</span>
+  <span class="na">url</span><span class="pi">:</span> <span class="s">/portfolio/</span>
 
-<span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">Made Mistakes</span>
-  <span class="s">url</span><span class="pi">:</span> <span class="s">http://mademistakes.com</span>  
-</code></pre>
-</div>
+<span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s">Made Mistakes</span>
+  <span class="na">url</span><span class="pi">:</span> <span class="s">http://mademistakes.com</span>  
+</code></pre></div></div>
 
 <hr />
 
@@ -275,7 +270,7 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <hr />
 
-<h3 id="jekyll-includes">Jekyll _includes</h3>
+<h3 id="jekyll-_includes">Jekyll _includes</h3>
 
 <p>For the most part you can leave these as is since the author/owner details are pulled from <code class="highlighter-rouge">_config.yml</code>. That said you’ll probably want to customize the copyright stuff in <code class="highlighter-rouge">footer.html</code> to your liking.</p>
 
@@ -289,27 +284,24 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <p>The two layouts make the assumption that the feature images live in the <em>images</em> folder. To add a feature image to a post or page just include the filename in the front matter like so.</p>
 
-<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="s">image</span><span class="pi">:</span>
-  <span class="s">feature</span><span class="pi">:</span> <span class="s">feature-image-filename.jpg</span>
-  <span class="s">thumb</span><span class="pi">:</span> <span class="s">thumbnail-image.jpg</span> <span class="c1">#keep it square 200x200 px is good</span>
-</code></pre>
-</div>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">image</span><span class="pi">:</span>
+  <span class="na">feature</span><span class="pi">:</span> <span class="s">feature-image-filename.jpg</span>
+  <span class="na">thumb</span><span class="pi">:</span> <span class="s">thumbnail-image.jpg</span> <span class="c1">#keep it square 200x200 px is good</span>
+</code></pre></div></div>
 
 <p>If you want to apply attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source.</p>
 
-<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="s">image</span><span class="pi">:</span>
-  <span class="s">feature</span><span class="pi">:</span> <span class="s">feature-image-filename.jpg</span>
-  <span class="s">credit</span><span class="pi">:</span> <span class="s">Michael Rose</span> <span class="c1">#name of the person or site you want to credit</span>
-  <span class="s">creditlink</span><span class="pi">:</span> <span class="s">http://mademistakes.com</span> <span class="c1">#url to their site or licensing</span>
-</code></pre>
-</div>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">image</span><span class="pi">:</span>
+  <span class="na">feature</span><span class="pi">:</span> <span class="s">feature-image-filename.jpg</span>
+  <span class="na">credit</span><span class="pi">:</span> <span class="s">Michael Rose</span> <span class="c1">#name of the person or site you want to credit</span>
+  <span class="na">creditlink</span><span class="pi">:</span> <span class="s">http://mademistakes.com</span> <span class="c1">#url to their site or licensing</span>
+</code></pre></div></div>
 
 <p>By default the <code class="highlighter-rouge">&lt;div&gt;</code> containing feature images is set to have a minimum height of 400px with CSS. Anything taller is hidden with an <code class="highlighter-rouge">overflow: hidden</code> declaration. You can customize the height of the homepage feature image and those appearing on posts/pages by modifying the following variables in <code class="highlighter-rouge">/_sass/_variables.scss</code>.</p>
 
-<div class="language-scss highlighter-rouge"><pre class="highlight"><code><span class="nv">$feature-image-height</span><span class="p">:</span> <span class="m">400px</span><span class="p">;</span> <span class="c1">// min 150px recommended
+<div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$feature-image-height</span><span class="p">:</span> <span class="m">400px</span><span class="p">;</span> <span class="c1">// min 150px recommended
 </span><span class="nv">$front-page-feature-image-height</span><span class="p">:</span> <span class="m">400px</span><span class="p">;</span> <span class="c1">// min 150px recommended
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <h4 id="postpage-thumbnails-for-og-and-twitter-cards">Post/Page Thumbnails for OG and Twitter Cards</h4>
 
@@ -341,9 +333,8 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <p>To modify the site’s JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into <code class="highlighter-rouge">scripts.min.js</code>. <a href="http://nodejs.org/">Install Node.js</a>, then <a href="http://gruntjs.com/getting-started">install Grunt</a>, and then finally install the dependencies for the theme contained in <code class="highlighter-rouge">package.json</code>:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>npm install
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm install
+</code></pre></div></div>
 
 <p>From the theme’s root, use <code class="highlighter-rouge">grunt</code> to concatenate JavaScript files and optimize <code class="highlighter-rouge">.jpg</code>, <code class="highlighter-rouge">.png</code> and <code class="highlighter-rouge">.svg</code> files in the <code class="highlighter-rouge">images/</code> folder.</p>
 
@@ -366,16 +357,16 @@ bundle <span class="nb">exec </span>jekyll serve
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Used to generate absolute URLs in <code class="highlighter-rouge">feed.xml</code>, and for canonical URLs in <code class="highlighter-rouge">head.html</code>. Don’t include a trailing <code class="highlighter-rouge">/</code> in your base url ie: http://mademistakes.com. When developing locally I suggest using http://localhost:4000 or whatever localhost you’re using to properly load all theme stylesheets, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing to home. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+      <p>Used to generate absolute URLs in <code class="highlighter-rouge">feed.xml</code>, and for canonical URLs in <code class="highlighter-rouge">head.html</code>. Don’t include a trailing <code class="highlighter-rouge">/</code> in your base url ie: http://mademistakes.com. When developing locally I suggest using http://localhost:4000 or whatever localhost you’re using to properly load all theme stylesheets, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing to home. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p>If you’re using GitHub Pages to host your site be aware that plugins are disabled. So you’ll need to build your site locally and then manually deploy if you want to use this sweet plugin. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+      <p>If you’re using GitHub Pages to host your site be aware that plugins are disabled. So you’ll need to build your site locally and then manually deploy if you want to use this sweet plugin. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
 
       <footer class="entry-meta">
-        <span>Updated on <span class="entry-date date published updated"><time datetime="2016-06-01 14:14:43 -0500">June 01, 2016</time></span></span>
+        <span>Updated on <span class="entry-date date published updated"><time datetime="2016-06-01 15:14:43 -0400">June 01, 2016</time></span></span>
         <span class="author vcard"><span class="fn">Albert Choy</span></span>
         <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
@@ -392,7 +383,7 @@ bundle <span class="nb">exec </span>jekyll serve
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
-    <span>&copy; 2017 Albert Choy. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>.</span>
+    <span>&copy; 2019 Albert Choy. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>.</span>
   </footer>
 </div><!-- /.footer-wrapper -->
 

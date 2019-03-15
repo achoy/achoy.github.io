@@ -5,6 +5,7 @@ description: "On A Quiet Summer Morning - Poem"
 tags: [poem]
 comments: true
 image:
+  path: images/Sculpture-Garden_Grand-Opening_Ribbon-Cutting_14.jpg
   feature: Sculpture-Garden_Grand-Opening_Ribbon-Cutting_14.jpg
   credit: "http://bit.ly/2rydYQu"
 ---

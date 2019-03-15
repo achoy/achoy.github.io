@@ -5,6 +5,7 @@ description: "Windmills On Your Mind - Lyrics"
 tags: [lyrics]
 comments: true
 image:
+  path: images/windmills.jpg
   feature: windmills.jpg
   credit: "http://bit.ly/2rydYQu"
 ---
