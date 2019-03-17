@@ -89,5 +89,6 @@ exclude:
   - package.json
   - spec
   - tmp
+  - vendor
 
 theme: jekyll-theme-cayman
